@@ -5,7 +5,6 @@
 # employee-view
 
 ## Table of contents
-<hr>
 
 <!--ts-->
 * [Table of contents](#table-of-contents)
